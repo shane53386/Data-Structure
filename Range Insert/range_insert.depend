@@ -1,0 +1,15 @@
+# depslib dependency file v1.0
+1600841691 source:d:\intro data struct\range insert\main.cpp
+	<stdio.h>
+	<iostream>
+	<vector>
+	"vector.h"
+	"student.h"
+
+1600841691 d:\intro data struct\range insert\vector.h
+	<stdexcept>
+	<iostream>
+	<vector>
+
+1600844767 d:\intro data struct\range insert\student.h
+

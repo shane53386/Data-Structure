@@ -1,0 +1,17 @@
+# depslib dependency file v1.0
+1606229889 source:d:\intro data struct\bst split\bst split\main.cpp
+	<stdexcept>
+	<vector>
+	<iostream>
+	<stdio.h>
+	<stdlib.h>
+	"map_bst.h"
+	"student.h"
+	<algorithm>
+
+1605955557 d:\intro data struct\bst split\bst split\map_bst.h
+	<iostream>
+
+1606230547 d:\intro data struct\bst split\bst split\student.h
+	<iostream>
+

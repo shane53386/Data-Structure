@@ -1,0 +1,17 @@
+# depslib dependency file v1.0
+1605585289 source:d:\intro data struct\list remove all\list remove all\main.cpp
+	<stdexcept>
+	<vector>
+	<iostream>
+	<stdio.h>
+	<stdlib.h>
+	"list.h"
+	"student.h"
+
+1605585289 d:\intro data struct\list remove all\list remove all\list.h
+	<stdexcept>
+	<iostream>
+
+1605587125 d:\intro data struct\list remove all\list remove all\student.h
+	<iostream>
+

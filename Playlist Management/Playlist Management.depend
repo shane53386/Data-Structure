@@ -1,0 +1,9 @@
+# depslib dependency file v1.0
+1605761487 source:d:\intro data struct\playlist management\main.cpp
+	<stdio.h>
+	<stdlib.h>
+	<iostream>
+	<string>
+	<vector>
+	<algorithm>
+

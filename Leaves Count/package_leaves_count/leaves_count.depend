@@ -1,0 +1,15 @@
+# depslib dependency file v1.0
+1606139941 source:d:\intro data struct\leaves count\package_leaves_count\main.cpp
+	<stdexcept>
+	<iostream>
+	"map_bst.h"
+	"student.h"
+	<vector>
+
+1606139941 d:\intro data struct\leaves count\package_leaves_count\map_bst.h
+	<iostream>
+
+1606142607 d:\intro data struct\leaves count\package_leaves_count\student.h
+	<algorithm>
+	<iostream>
+

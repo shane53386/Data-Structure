@@ -1,0 +1,55 @@
+# depslib dependency file v1.0
+1606016262 source:d:\dae\teaching\data structure\2563-a\quiz\q4a-list-reverse\solution\main.cpp
+	<stdexcept>
+	<assert.h>
+	<vector>
+	<iostream>
+	<stdio.h>
+	<stdlib.h>
+	<string>
+	"list.h"
+	"student.h"
+
+1606015604 d:\dae\teaching\data structure\2563-a\quiz\q4a-list-reverse\solution\list.h
+	<stdexcept>
+	<iostream>
+
+1606016623 d:\dae\teaching\data structure\2563-a\quiz\q4a-list-reverse\solution\student.h
+	<algorithm>
+
+1606017337 source:d:\dae\teaching\data structure\2563-a\quiz\q4a-list-reverse\package\main.cpp
+	<stdexcept>
+	<assert.h>
+	<vector>
+	<iostream>
+	<stdio.h>
+	<stdlib.h>
+	<string>
+	"list.h"
+	"student.h"
+
+1606017566 d:\dae\teaching\data structure\2563-a\quiz\q4a-list-reverse\package\list.h
+	<stdexcept>
+	<iostream>
+
+1606017117 d:\dae\teaching\data structure\2563-a\quiz\q4a-list-reverse\package\student.h
+	<algorithm>
+
+1606142923 source:d:\intro data struct\list reverse\package_list_reverse\main.cpp
+	<stdexcept>
+	<assert.h>
+	<vector>
+	<iostream>
+	<stdio.h>
+	<stdlib.h>
+	<string>
+	"list.h"
+	"student.h"
+
+1606142923 d:\intro data struct\list reverse\package_list_reverse\list.h
+	<stdexcept>
+	<iostream>
+
+1606149145 d:\intro data struct\list reverse\package_list_reverse\student.h
+	<algorithm>
+

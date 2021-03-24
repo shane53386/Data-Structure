@@ -1,0 +1,14 @@
+# depslib dependency file v1.0
+1600834376 source:d:\intro data struct\queue at\main.cpp
+	<stdexcept>
+	<iostream>
+	"queue.h"
+	"student.h"
+	<vector>
+
+1600834376 d:\intro data struct\queue at\queue.h
+	<stdexcept>
+	<iostream>
+
+1600838560 d:\intro data struct\queue at\student.h
+

@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1611999333 source:d:\intro data struct\inversion\main.cpp
+	<iostream>
+	<array>
+	<vector>
+
